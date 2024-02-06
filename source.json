@@ -13,6 +13,7 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
+        "Auros/Flare",
         "Auros/Sucrose"
     ],
     "packages": []
